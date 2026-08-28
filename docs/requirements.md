@@ -2,18 +2,18 @@
 
 ## Objectivo
 
-Desenvolver um sistema simples e interactivo que permita que os usuários possam partilhar informações sobre os postos de combustível dentro e fora da cidade, cooperando assim uns com os outros e facilitando assim a aquisição de combustível sem muitos contratempos.
+Desenvolver um sistema simples e interactivo que permita que os usuários possam partilhar informações sobre os postos de combustível dentro e fora da cidade, cooperando uns com os outros e facilitando assim a aquisição de combustível sem muitos contratempos.
 
 ---
 
 ## Usuários do sistema
 
-- Administrador
+- Administradores
 - Clientes/Condutores
 
 ## Problemas identificados
 
-- Falta de informação sobre o actual estado dos postos de combustível
+- Falta de informação sobre o actual estado dos postos de combustível mais próximos
 - Demora na procura do combustível
 - Perda de tempo
 - Urgência para adquirir combustível
