@@ -28,13 +28,19 @@ Desenvolver um sistema simples e interactivo que permita que os usuários possam
 - RF04 - Mostrar as métricas conforme as informações dadas pelos usuários
 - RF05 - Armazenar os dados dos postos de combustível
 - RF06 - Actualizar as métricas consoante os dados mais recentes
+- RF07 - Cadastro de administradores
+- RF08 - Gestão de administradores (criar, editar, excluir)
+- RF09 - Login e autenticação
 
 ## Requisitos não funcionais
 
-- RNF01 - Performance
-- RNF02 - Interface simples e intuitiva
-- RNF03 - Responsividade
+- RNF01 - Segurança
+- RNF02 - Performance
+- RNF03 - Interface simples e intuitiva
+- RNF04 - Responsividade
 
 ## Regras de Negócio
 
 - RN01 - O usuário só pode seleccionar uma opção ao fornecer os dados de determinado posto de combustível
+- RN02 - Apenas super administradores podem cadastrar e gerenciar outros administradores
+- RN03 - Administradores normais apenas gerenciam dados do sistema
