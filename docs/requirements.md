@@ -8,6 +8,7 @@ Desenvolver um sistema simples e interactivo que permita que os usuários possam
 
 ## Usuários do sistema
 
+- Super Administradores
 - Administradores
 - Clientes/Condutores
 
@@ -22,15 +23,15 @@ Desenvolver um sistema simples e interactivo que permita que os usuários possam
 
 ## Requisitos funcionais
 
-- RF01 - Mostrar postos de combustível num mapa
-- RF02 - Saber a localização do usuário
-- RF03 - Permitir que os usuários informem sobre o estado dos postos
-- RF04 - Mostrar as métricas conforme as informações dadas pelos usuários
+- RF01 - Visualizar postos de combustível num mapa
+- RF02 - Obter a localização do usuário
+- RF03 - Informar sobre o estado dos postos
+- RF04 - Visualizar as métricas baseadas nas informações dadas pelos usuários
 - RF05 - Armazenar os dados dos postos de combustível
 - RF06 - Actualizar as métricas consoante os dados mais recentes
-- RF07 - Cadastro de administradores
-- RF08 - Gestão de administradores (criar, editar, excluir)
-- RF09 - Login e autenticação
+- RF07 - Cadastrar de administradores
+- RF08 - Gerir administradores (criar, editar, excluir)
+- RF09 - Realizar login e autenticação
 
 ## Requisitos não funcionais
 
